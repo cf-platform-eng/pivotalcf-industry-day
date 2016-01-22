@@ -2,5 +2,6 @@ site_name: IndustryDay
 repo_url: https://github.com/cf-platform-eng/pivotalcf-industry-day/
 google_analytics: ['UA-69554101-1', 'industryday.cfapps.io']
 remote_branch: master
+theme: flatly
 pages:
   - Intro: 'index.md'
