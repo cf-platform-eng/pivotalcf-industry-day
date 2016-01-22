@@ -2,11 +2,11 @@
 
 # Pivotal Cloud Foundry Industry Day #
 
-## February 23rd and 24th, 2016
+#### _February 23rd and 24th, 2016_
 
 Hey folks,
 
-We're delighted to announce Pivotal’s first _Cloud Foundry Industry Day_.
+We're delighted to announce Pivotal’s first __Cloud Foundry Industry Day__.
 (The event is first-come, first-serve, and we expect the limited spots to disappear quickly).
 
 ## WHAT: Two-Day, Hands-on Development Sprint for PCF Integration
@@ -26,7 +26,7 @@ We will serve breakfast, lunch, coffee and snacks.
 (If you want to stay and work all night, we’ll buy pizza).
 At the close of the second day, we’ll celebrate with a reception.
 
-## WHO:
+## WHO: Developers!
 
 Each qualified ISV partner can send no more than 2 software developers.
 You will need to bring your own laptop, preconfigured with your favorite development environment.
@@ -34,7 +34,7 @@ Any one of the standard CF languages are supported, but you’ll at least need V
 This is a free event and it’s open to any of Pivotal’s partners.
 (If you’re not a Pivotal partner yet, you can [sign up for the partner program online right now](https://partners.pivotal.io/users/new))
 
-## HOW:
+## HOW: Register and show up
 
 If you’re absolutely sure you’re coming, [RSVP via this Google form](https://docs.google.com/a/pivotal.io/forms/d/1pI9gkDIOfjg1UOLREow7lATyDxLOaSuKTxs87aIhqVI/viewform).
 
