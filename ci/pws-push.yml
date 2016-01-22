@@ -1,0 +1,38 @@
+---
+jobs:
+- name: update-industryday-website
+  public: true
+  serial: true
+  plan:
+  - get: git-industryday-website
+    trigger: true
+  - task: rebuild-mkdocs
+    config:
+      platform: linux
+      image: "docker:///metal3d/mkdocs"
+      inputs:
+        - name: git-industryday-website
+          path: .
+      run:
+        path: mkdocs
+        args: ["build"]
+  - put: industryday-website
+    params:
+      manifest: rebuild-mkdocs/manifest.yml
+      path: rebuild-mkdocs/site
+
+resources:
+- name: git-industryday-website
+  type: git
+  source:
+    uri: https://github.com/cf-platform-eng/pivotalcf-industry-day.git
+
+- name: industryday-website
+  type: cf
+  source:
+    api: https://api.run.pivotal.io
+    username: josh@beanpatch.net
+    password: {{PWS_PASSWORD}}
+    organization: beanpatch
+    space: opencontrol
+    skip_cert_check: false
