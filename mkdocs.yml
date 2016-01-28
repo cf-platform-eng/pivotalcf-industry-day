@@ -5,3 +5,5 @@ remote_branch: master
 theme: flatly
 pages:
   - Intro: 'index.md'
+  - Prepare: 'prereqs.md'
+  - Details: 'details.md'
