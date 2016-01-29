@@ -1,4 +1,4 @@
-# ![Pivotal Logo](img/Pivotal_Logo.png)
+# ![Pivotal Logo](img/pivotal_logo_sm.png)
 
 # Details and Logistics #
 
