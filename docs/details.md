@@ -4,31 +4,18 @@
 
 ```
   Event Location:
-  Nasdaq Entrepreneurial Center
-  505 Howard St., San Francisco, CA 94103
+  Pivotal Labs New York
+  625 6th Ave., 2nd Floor, New York, NY 10011
 ```
 
 ## Where to stay
-_Hotels near Nasdaq Entrepreneurial Center_
+_Hotels near the Pivotal Office_
 
-__InterContinental__
-``888 Howard St, San Francisco, CA 94103 `` [415.616.6500](tel:415-616-6500)
+__Affinia, Manhattan__
+``371 7th Ave, New York, NY 10001 `` [212-563-1800](tel:212-563-1800)
 
-__W San Francisco__
-``181 3rd St., San Francisco, CA 94103`` [415.777.5300](tel:415-777-5300)
-
-__Hotel Zetta__
-``55 5th St., San Francisco, CA 94103`` [415.543.8555](tel:415-543-8555)
-
-## How to get here
-
-[Montgomery St. BART Station](http://www.bart.gov/stations/mont)
-
-``CalTrain Station``
-[700 4th St., San Francisco, CA 94103](https://goo.gl/maps/sHjR8YP5BPH2)
-
-[San Francisco BikeShare map](http://www.bayareabikeshare.com/stations)
-
+__Courtyard New York__
+``West 30th Street, New York, NY `` [212-967-6000](tel:212-967-6000)
 
 ## Agenda details
 
