@@ -21,7 +21,7 @@ In short, we’ll get you into the Cloud Foundry marketplace.
 
 ## WHEN: June 8th and 9th
 
-…in downtown Manhattan, at the Pivotal office on 6th street.
+…in downtown Manhattan, at the Pivotal office on 6th Avenue.
 We will serve breakfast, lunch, coffee and snacks.
 (If you want to stay and work all night, we’ll buy pizza).
 At the close of the second day, we’ll celebrate with a reception.
