@@ -6,9 +6,19 @@ First, make sure that you've [RSVP'd via this Google form](https://docs.google.c
 from the Industry Day team.
 
 ## What to prepare
- - Read the ["Getting Started as a PCF ISV" Guide](http://cf-platform-eng.github.io/isv-portal/)
+ - Read the ["Getting Started as a PCF ISV"](http://cf-platform-eng.github.io/isv-portal/) Guide
  - Email us your GitHub ID (so we can add you to our partners group)
- - Install Screen Hero (for pair programming)
+ - On the machine you will bring to Industry Day:
+    - Install Screen Hero (for pair programming)
+    - Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+    - Clone the [Tile Generator Repo](https://github.com/cf-platform-eng/tile-generator),
+      and [Install Tile Generator](http://cf-platform-eng.github.io/isv-portal/tile-generator/)
+    - Install the [BOSH CLI](https://bosh.io/docs/bosh-cli.html)
+    - Install the [CF CLI](https://github.com/cloudfoundry/cli#downloads)
+- Try to get a head start by working through the
+  [Getting Started](http://cf-platform-eng.github.io/isv-portal/getting-started/) Guide.
+  If you get the easy things out of the way, we will be able to help you with the harder
+  stuff in person.
 
 ## What to bring
  - Bring a mac or linux laptop (Linux VM on a windows machine is okay)
