@@ -24,4 +24,4 @@ from the Industry Day team.
  - Bring a mac or linux laptop (Linux VM on a windows machine is okay)
  - HDMI adapter, if needed
  - Thumb drive
- - A logo for your tile (in png or jpeg at 128x128)
+ - A logo for your tile (in png or jpeg at 256x256)
