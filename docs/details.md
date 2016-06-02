@@ -21,16 +21,16 @@ __Courtyard New York__
 
 __Day 1__:
 
-- 8-9am Coffee and Breakfast
-- 9am Start
+- 8:30-9:30am Coffee and Breakfast
+- 9:30am Start
 - 12-1pm Lunch
-- 4:30pm End day
-- (Optional: pizza and moar hacking)
+- 5:30pm End day
+- 5:30-6:30 (Optional: drinks and moar hacking)
 
 __Day 2__:
 
- - 8-9am Breakfast
- - 9am Start
+ - 8:30-9:30am Breakfast
+ - 9:30am Start
  - 12-1pm Lunch
  - 3pm Stop hacking / present demos
- - 5-7pm beer and wine reception
+ - 5-7pm beer and wine reception (offsite)
