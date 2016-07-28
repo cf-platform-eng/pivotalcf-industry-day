@@ -2,11 +2,11 @@
 
 # Pivotal Cloud Foundry Industry Day #
 
-#### _June 8th and 9th, 2016_
+#### _September 13th and 14th, 2016_
 
 Hey folks,
 
-We're delighted to announce Pivotal’s second __Cloud Foundry Industry Day__.
+We're delighted to announce Pivotal’s third __Cloud Foundry Industry Day__.
 (The event is first-come, first-serve, and we expect the limited spots to disappear quickly).
 
 ## WHAT: Two-Day, Hands-on Development Sprint for PCF Integration
@@ -19,9 +19,9 @@ For two full days, the members of Pivotal's Platform Engineering team will train
 
 In short, we’ll get you into the Cloud Foundry marketplace.
 
-## WHEN: June 8th and 9th
+## WHEN: September 13th and 14th
 
-…in downtown Manhattan, at the Pivotal office on 6th Avenue.
+…in downtown Seattle, at the SURF Incubator on 3rd Avenue.
 We will serve breakfast, lunch, coffee and snacks.
 (If you want to stay and work all night, we’ll buy pizza).
 At the close of the second day, we’ll celebrate with a reception.
@@ -36,8 +36,8 @@ This is a free event and it’s open to any of Pivotal’s partners.
 
 ## HOW: Register and show up
 
-If you’re absolutely sure you’re coming, [RSVP via this Google form](https://docs.google.com/a/pivotal.io/forms/d/1R9c7YUO0vWMH-U0Y2A9ki157et9sZAeiMa7kbUzCSCE/viewform).
+If you’re absolutely sure you’re coming, [RSVP via this Google form](https://docs.google.com/a/pivotal.io/forms/d/e/1FAIpQLScEOQwWSJUmvg7Df5veSF-e2GUGiiedjWtKMXMhO-E4W7hy1g/viewform).
 
 A few weeks before the event, we’ll send out an “Attendee’s Guide” with some recommended reading. BUT, please note that there are only 40 seats available! If you are serious about getting your software into the Cloud Native Platform ecosystem, please let us know right away.
 
-We're looking forward to seeing you in June!
+We're looking forward to seeing you in September!
