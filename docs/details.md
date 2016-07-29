@@ -4,18 +4,18 @@
 
 ```
   Event Location:
-  Pivotal Labs New York
-  625 6th Ave., 2nd Floor, New York, NY 10011
+  SURF Incubator
+  999 3rd Avenue #700, Seattle, WA 98104
 ```
 
 ## Where to stay
-_Hotels near the Pivotal Office_
+_Hotels near the event_
 
-__Affinia, Manhattan__
-``371 7th Ave, New York, NY 10001 `` [212-563-1800](tel:212-563-1800)
+__The Arctic Club Seattle - DoubleTree__
+``700 3rd Avenue, Seattle, WA`` [206-340-0340](tel:206-340-0340)
 
-__Courtyard New York__
-``West 30th Street, New York, NY `` [212-967-6000](tel:212-967-6000)
+__Courtyard Seattle Downtown/Pioneer Square__
+``612 2nd Avenue, Seattle, WA`` [206-625-1111](tel:206-625-1111)
 
 ## Agenda details
 

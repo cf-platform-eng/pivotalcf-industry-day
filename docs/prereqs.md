@@ -2,7 +2,7 @@
 
 # Prerequisites #
 
-First, make sure that you've [RSVP'd via this Google form](https://docs.google.com/a/pivotal.io/forms/d/1R9c7YUO0vWMH-U0Y2A9ki157et9sZAeiMa7kbUzCSCE/viewform). Space *is* limited, so don't buy a plane ticket until you get confirmation
+First, make sure that you've [RSVP'd via this Google form](https://docs.google.com/a/pivotal.io/forms/d/e/1FAIpQLScEOQwWSJUmvg7Df5veSF-e2GUGiiedjWtKMXMhO-E4W7hy1g/viewform). Space *is* limited, so don't buy a plane ticket until you get confirmation
 from the Industry Day team.
 
 ## What to prepare
