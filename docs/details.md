@@ -32,5 +32,8 @@ __Day 2__:
  - 8:30-9:30am Breakfast
  - 9:30am Start
  - 12-1pm Lunch
- - 3pm Stop hacking / present demos
- - 5-7pm beer and wine reception (offsite)
+ - 2pm Stop hacking / present demos
+ - 4.30pm Beer and wine reception at the [Good Bar Pioneer Square](http://www.goodbarseattle.com/)
+ - 6-8pm Meetup at the [Pivotal Office](https://goo.gl/maps/ejRGm89nnVm) (Galvanize Building)
+
+
