@@ -1,5 +1,5 @@
 ---
 applications:
-- name: industryday-new
+- name: industryday
   memory: 64M
   path: site
