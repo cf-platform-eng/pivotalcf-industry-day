@@ -7,6 +7,8 @@ Space *is* limited, so don't buy a plane ticket until you get confirmation from 
 
 ## What to prepare
  - Read the ["Getting Started as a PCF ISV"](http://cf-platform-eng.github.io/isv-portal/) Guide
+ - Install Slack, and accept our invitation to the Pivotal Partners Slack team
+    - We use this to communicate with you, and to share access credentials to our PCF environments
  - On the machine you will bring to Industry Day:
     - Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
     - Clone the [Tile Generator Repo](https://github.com/cf-platform-eng/tile-generator),
