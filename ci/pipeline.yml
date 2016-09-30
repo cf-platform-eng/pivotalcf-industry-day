@@ -11,15 +11,21 @@ jobs:
       platform: linux
       image: "docker:///metal3d/mkdocs"
       inputs:
-        - name: git-industryday-website
-          path: .
+      - name: git-industryday-website
+      outputs:
+      - name: mkdocs-output
       run:
-        path: mkdocs
-        args: ["build"]
+        path: sh
+        args:
+        - -exc
+        - |
+          cp -r git-industryday-website/* mkdocs-output
+          cd mkdocs-output
+          mkdocs build
   - put: industryday-website
     params:
-      manifest: rebuild-mkdocs/manifest.yml
-      path: rebuild-mkdocs/site
+      manifest: mkdocs-output/manifest.yml
+      path: mkdocs-output/site
 
 resources:
 - name: git-industryday-website
