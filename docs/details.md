@@ -5,7 +5,7 @@
 ```
   Event Location:
   Pivotal Office
-  ​Conference Room: Tesla​
+  Conference Room: Tesla
   3495 Deer Creek Rd, Palo Alto, CA 94304
 
 ```
