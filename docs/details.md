@@ -4,18 +4,20 @@
 
 ```
   Event Location:
-  SURF Incubator
-  999 3rd Avenue #700, Seattle, WA 98104
+  Pivotal Office
+  ​Conference Room: Tesla​
+  3495 Deer Creek Rd, Palo Alto, CA 94304
+
 ```
 
 ## Where to stay
 _Hotels near the event_
 
-__The Arctic Club Seattle - DoubleTree__
-``700 3rd Avenue, Seattle, WA`` [206-340-0340](tel:206-340-0340)
+__Crowne Plaza Palo Alto__
+``74290 El Camino Real, Palo Alto, CA 94306`` [650-857-0787](tel:650-857-0787)
 
-__Courtyard Seattle Downtown/Pioneer Square__
-``612 2nd Avenue, Seattle, WA`` [206-625-1111](tel:206-625-1111)
+__Hilton Garden Inn Palo Alto__
+``4216 El Camino Real, Palo Alto, CA 94306`` [650-843-0795 ](tel:650-843-0795 )
 
 ## Agenda details
 
@@ -25,15 +27,15 @@ __Day 1__:
 - 9:30am Start
 - 12-1pm Lunch
 - 5:30pm End day
-- 5:30-6:30 (Optional: drinks and moar hacking)
+- 5:30-6:30 (Optional: drinks at the [Pivotal Office](https://goo.gl/mPE3po))
 
 __Day 2__:
 
  - 8:30-9:30am Breakfast
  - 9:30am Start
  - 12-1pm Lunch
- - 2pm Stop hacking / present demos
- - 4.30pm Beer and wine reception at the [Good Bar Pioneer Square](http://www.goodbarseattle.com/)
- - 6-8pm Meetup at the [Pivotal Office](https://goo.gl/maps/ejRGm89nnVm) (Galvanize Building)
+ - 3pm Stop hacking / present demos
+ - 5pm Beer and wine reception
+ 
 
 
