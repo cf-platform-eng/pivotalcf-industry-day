@@ -2,11 +2,10 @@
 
 # Pivotal Cloud Foundry Industry Day #
 
-#### _September 13th and 14th, 2016_
-
+#### December 7th & 8th
 Hey folks,
 
-We're delighted to announce Pivotal’s third __Cloud Foundry Industry Day__.
+We're delighted to announce Pivotal’s fourth __Cloud Foundry Industry Day__.
 (The event is first-come, first-serve, and we expect the limited spots to disappear quickly).
 
 ## WHAT: Two-Day, Hands-on Development Sprint for PCF Integration
@@ -19,11 +18,10 @@ For two full days, the members of Pivotal's Platform Engineering team will train
 
 In short, we’ll get you into the Cloud Foundry marketplace.
 
-## WHEN: September 13th and 14th
+## WHEN: December 7th & 8th
 
-…in downtown Seattle, at the SURF Incubator on 3rd Avenue.
+…in Palo Alto, at the Pivotal Office, 3495 Deer Creek Rd.
 We will serve breakfast, lunch, coffee and snacks.
-(If you want to stay and work all night, we’ll buy pizza).
 At the close of the second day, we’ll celebrate with a reception.
 
 ## WHO: Developers!
@@ -36,8 +34,10 @@ This is a free event and it’s open to any of Pivotal’s partners.
 
 ## HOW: Register and show up
 
-If you’re absolutely sure you’re coming, [RSVP via this Google form](https://docs.google.com/a/pivotal.io/forms/d/e/1FAIpQLScEOQwWSJUmvg7Df5veSF-e2GUGiiedjWtKMXMhO-E4W7hy1g/viewform).
+If you’re absolutely sure you’re coming, [RSVP via this Google form](https://docs.google.com/forms/d/e/1FAIpQLSdjoA309f6z_6Wefis4puK69JUc0wumPmB9OOHJJ_byNKydNA/viewform?usp=send_form).
 
-A few weeks before the event, we’ll send out an “Attendee’s Guide” with some recommended reading. BUT, please note that there are only 40 seats available! If you are serious about getting your software into the Cloud Native Platform ecosystem, please let us know right away.
+There are only 20 seats available! If you are serious about getting your software into the Cloud Native Platform ecosystem, please register right away!
 
-We're looking forward to seeing you in September!
+Once your registration is confirmed, start preparing by working through the prerequisites outlined at (http://industryday.cfapps.io/prereqs/)
+
+We're looking forward to seeing you in December!
