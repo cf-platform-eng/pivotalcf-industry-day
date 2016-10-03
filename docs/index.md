@@ -10,7 +10,7 @@ We're delighted to announce Pivotal’s fourth __Cloud Foundry Industry Day__.
 
 ## WHAT: Two-Day, Hands-on Development Sprint for PCF Integration
 
-The Pivotal Cloud Foundry marketplace has been an amazing sales channel for our ISV partners (just ask Apigee, Dynatrace, ISS, AppDynamics, Rew Relic, CloudBees, GitLab and JFrog). Now, we want to make it easier for you to get involved.
+The Pivotal Cloud Foundry marketplace has been an amazing sales channel for our ISV partners (just ask Apigee, Dynatrace, ISS, AppDynamics, New Relic, CloudBees, GitLab and JFrog). Now, we want to make it easier for you to get involved.
 
 Packaging up software for Cloud Foundry has historically been, well…. harder than we would have liked. Here’s how we’re going to fix that:
 
