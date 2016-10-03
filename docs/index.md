@@ -2,7 +2,7 @@
 
 # Pivotal Cloud Foundry Industry Day #
 
-#### _December 7th & 8th
+#### December 7th & 8th
 Hey folks,
 
 We're delighted to announce Pivotal’s fourth __Cloud Foundry Industry Day__.
