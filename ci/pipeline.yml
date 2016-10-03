@@ -26,6 +26,7 @@ jobs:
     params:
       manifest: mkdocs-output/manifest.yml
       path: mkdocs-output/site
+      current_app_name: industryday
 
 resources:
 - name: git-industryday-website
