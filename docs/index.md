@@ -38,6 +38,6 @@ If you’re absolutely sure you’re coming, [RSVP via this Google form](https:/
 
 There are only 20 seats available! If you are serious about getting your software into the Cloud Native Platform ecosystem, please register right away!
 
-Once your registration is confirmed, start preparing by working through the prerequisites outlined at (http://industryday.cfapps.io/prereqs/)
+Once your registration is confirmed, start preparing by working through the [prerequisites] (http://industryday.cfapps.io/prereqs/)
 
 We're looking forward to seeing you in December!
