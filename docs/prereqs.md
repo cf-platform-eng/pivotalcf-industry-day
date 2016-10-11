@@ -11,8 +11,7 @@ Space *is* limited, so don't buy a plane ticket until you get confirmation from 
     - We use this to communicate with you, and to share access credentials to our PCF environments
  - On the machine you will bring to Industry Day:
     - Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-    - Clone the [Tile Generator Repo](https://github.com/cf-platform-eng/tile-generator),
-      and [Install Tile Generator](http://cf-platform-eng.github.io/isv-portal/tile-generator/)
+    - Install [Tile Generator](http://cf-platform-eng.github.io/isv-portal/tile-generator/#how-to-use)
     - Install the [BOSH CLI](https://bosh.io/docs/bosh-cli.html)
     - Install the [CF CLI](https://github.com/cloudfoundry/cli#downloads)
 - Try to get a head start by working through the
@@ -22,6 +21,6 @@ Space *is* limited, so don't buy a plane ticket until you get confirmation from 
 
 ## What to bring
  - Bring a mac or linux laptop (Linux VM on a windows machine is okay)
- - HDMI adapter, if needed
+ - HDMI adapter, if needed to connect to a projector
  - Thumb drive
  - A logo for your tile (in png or jpeg at 256x256)
