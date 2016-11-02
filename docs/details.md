@@ -13,7 +13,7 @@
 _Hotels near the event_
 
 __Crowne Plaza Palo Alto__
-``74290 El Camino Real, Palo Alto, CA 94306`` [650-857-0787](tel:650-857-0787)
+``4290 El Camino Real, Palo Alto, CA 94306`` [650-857-0787](tel:650-857-0787)
 
 __Hilton Garden Inn Palo Alto__
 ``4216 El Camino Real, Palo Alto, CA 94306`` [650-843-0795 ](tel:650-843-0795 )
