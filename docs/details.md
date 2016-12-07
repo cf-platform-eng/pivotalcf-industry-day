@@ -34,7 +34,7 @@ __Day 2__:
  - 9:30am Start
  - 12-1pm Lunch
  - 3pm Stop hacking / present demos
- - 5pm Beer and wine reception (Location: TBD)
+ - 5pm Beer and wine reception (Location: [Terun Pizzeria](https://goo.gl/maps/dxJDX3JKyUU2))
  
 
 
